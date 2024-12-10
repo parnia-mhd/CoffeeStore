@@ -22,8 +22,8 @@ A modern, responsive coffee shop website designed with **TailwindCSS** and **Jav
 
 ## 📷 Screenshots
 
-![home page](../readme.pic/Annotation%202024-12-09%20154503.png)
-![reading page](../readme.pic/Annotation%202024-12-09%20154740.png)
+![home page](readme.pic/Annotation%202024-12-09%20154503.png)
+![reading page](readme.pic/Annotation%202024-12-09%20154740.png)
 
 ## 🛠️ Installation  
 
@@ -38,6 +38,3 @@ A modern, responsive coffee shop website designed with **TailwindCSS** and **Jav
 3. Open the index.html file in your browser:
    ```bash
    Simply  open it with any browser!     
-
-## <font color="#c18401">Demo</font>
-[title](https://www.example.com)
